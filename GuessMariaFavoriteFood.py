@@ -1,3 +1,4 @@
+import streamlit as st
 def main():
     st.write("Vamos jogar! Adivinhe qual é a comida favorita da Maria.")
     st.write("A dica é: Começa com M e termina com U.")
